@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Registro y Recepción",
+		"time": "10:00 - 10:30"
+	},
+	{
+		"name": "Palabras de Inicio",
+		"time": "10:30 - 10:45"
+	},
+	{
+		"name": "5 Essential technologies to keep your JS apps sane and scalable",
+		"speaker": "Martin Zlámal",
+		"time": "10:45 - 11:15",
+		"photo": "https://avatars0.githubusercontent.com/u/978368?s=460&v=4"
+	},
+	{
+		"name": "Brunch",
+		"time": "11:15 - 11:30",
+		"photo": "https://www.halfbakedharvest.com/wp-content/uploads/2017/04/Breakfast-Tacos-Al-Pastor-1.jpg"
+	},
+	{
+		"name": "Speech to text",
+		"speaker": "Juan La Jara",
+		"time": "11:30 - 12:00",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Primeros paso con Web Assembly y Rust",
+		"speaker": "Lupo Montero",
+		"time": "12:00 - 12:30",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Coffee Break",
+		"time": "12:30 - 12:45",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Formando una Comunidad",
+		"speaker": "Elizabeth Portilla",
+		"time": "12:45 - 13:15",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Almuerzo",
+		"time": "13:15 - 14:30",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Taller 1",
+		"time": "14:30 - 16:30",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Taller 2",
+		"time": "16:30 - 18:30",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Torneo de PPT Karaoke",
+		"time": "18:30 - 19:30",
+		"photo": "https://picsum.photos/600/400"
+	},
+	{
+		"name": "Fiesta.JS",
+		"time": "19:30 - 00:00",
+		"photo": "https://picsum.photos/600/400"
+	}
+]
